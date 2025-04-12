@@ -1,3 +1,3 @@
 # IBMData Science
 
-## Welcome to my Final Capstone Project
+## Welcome to my Capstone Project
